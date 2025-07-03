@@ -1,0 +1,44 @@
+1.Define what a database is and give two real-world examples (not from the notes).
+
+A database is an organized collection of data stored electronically in a computer system. 
+It allows for efficient storage, retrieval, and management of information, often used by applications and users.
+Databases are typically managed by a database management system (DBMS). 
+- Library Management System
+- Online Shopping Platform
+
+2.List three differences between relational and non-relational databases.
+
+| Feature             | Relational (SQL)                   | Non-relational (NoSQL)                      |
+| ------------------- | ---------------------------------- | ------------------------------------------- |
+| Data Model & Schema | Structured tables, fixed schema    | Flexible documents, key‑value, graph        |
+| Scalability         | Vertical scaling (stronger server) | Horizontal scaling (multiple nodes)         |
+| Consistency         | Strong ACID consistency            | Eventual consistency (for distributed data) |
+
+3.Name two advantages of using a DBMS.
+
+Improved Data Security and Integrity -
+
+A DBMS enforces access controls, authentication, and encryption to protect sensitive data from unauthorized access. It also maintains integrity through constraints
+(like primary keys, foreign keys, and check constraints), ensuring data remains accurate and consistent. 
+
+Efficient Data Sharing & Reduced Redundancy -
+
+A DBMS centralizes data storage, enabling multiple users and applications to access and update the same data concurrently. This prevents data duplication and inconsistencies while facilitating collaboration.
+
+4.List three popular RDBMS and two popular NoSQL databases.
+
+RDBMS
+MySQL
+PostgreSQL
+Oracle Database
+NoSQL
+MongoDB 
+Cassandra 
+
+5.Install MySQL, PostgreSQL, or SQLite on your system and confirm the installation.
+
+Yes ,installed
+
+6. Start your SQL server and log in using a command-line tool.
+
+yes, completed
